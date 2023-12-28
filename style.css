@@ -1,0 +1,31 @@
+a {
+    text-decoration: none;
+    color: #E5E7EB;
+    font-size: 18px;
+    margin: 20px;
+}
+
+ul {
+    list-style-type: none;
+    color: white;
+    display: flex;
+}
+
+.header {
+    background-color: #1F2937;
+    color: #F9FAF8;
+    font-size: 24px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 20px;
+}
+
+
+
+.header-links {
+    display: flex;
+    align-items: center;
+}
+
+

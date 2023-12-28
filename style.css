@@ -28,4 +28,24 @@ ul {
     align-items: center;
 }
 
+.awesome-section {
+    background-color: #1F2937;
+    display: flex;
+}
 
+.awesome-heading {
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: extra-bold;
+    
+}
+
+.awesome-subtext {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+button {
+    background-color: #3882F6;
+    color: white;
+}   

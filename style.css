@@ -18,7 +18,7 @@ ul {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-left: 20px;
+    
 }
 
 
@@ -49,3 +49,4 @@ button {
     background-color: #3882F6;
     color: white;
 }   
+
